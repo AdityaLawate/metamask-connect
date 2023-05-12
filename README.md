@@ -11,4 +11,4 @@ cd metamask-connect
 npm i
 npm start
 ```
-        
+        <p align ="center">Commit made with :heart: by <a href="https://github.com/Aditya-Lawate-codez/gitRobo">GitMeUp</a>"</p><p align ="center">Commit made with :heart: by <a href="https://github.com/Aditya-Lawate-codez/gitRobo">GitMeUp</a></p>
