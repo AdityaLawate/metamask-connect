@@ -14,6 +14,6 @@ npm start
 
 <p align ="center">
 commit made with :heart: by 
-<!-- [GitMeUp](https://github.com/Aditya-Lawate-codez/gitRobo) -->
 <a href="https://github.com/Aditya-Lawate-codez/gitRobo">GitMeUp</a>
 </p>
+<p align ="center">Commit made with :heart: by <a href="<a href="https://github.com/Aditya-Lawate-codez/gitRobo">GitMeUp</a>"</p>
